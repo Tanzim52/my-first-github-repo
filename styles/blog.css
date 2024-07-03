@@ -1,6 +1,10 @@
 .tr{
-    color: aquamarine;
+    color: rgb(7, 234, 49);
 }
 .tru{
-    background-color: azure;
+    background-color: rgb(21, 223, 223);
+    margin-bottom: 15px;
+    font-weight: 500;
 }
+
+
